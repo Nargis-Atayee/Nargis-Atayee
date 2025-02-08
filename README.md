@@ -7,7 +7,7 @@ Aspiring software developer | Student of CIS-Web developer
 I am currently studying CIS-Web development at san Jose city college.
 
 * 🌍  I'm based in California
-* ✉️  You can contact me at [nargis.atayee1995@gmail.com and www.linkedin.com/in/nargis-atayee-3a2317209](mailto:nargis.atayee1995@gmail.com and www.linkedin.com/in/nargis-atayee-3a2317209)
+* ✉️  You can contact me at [nargis.atayee1995@gmail.com and www.linkedin.com/in/nargis-atayee-3a2317209]
 * 🧠  I'm learning HTML, CSS, and JavaScript - PHP and MySQL - Git and GitHub workflows
 
 
