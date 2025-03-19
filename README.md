@@ -1,25 +1,40 @@
-# Hello, I'm [Nargis Atayee] 👋
-## Aspiring Software Developer | Computer Science Student
+# Hello, I'm Nargis Atayee 👋  
+💻 Aspiring Web Developer | AS in Web Development (CIS)  
+📍 Student at San Jose City College | CIS Programming  
 
-I'm currently studying Computer Science at San Jose City College,
-focusing on full-stack development and cloud computing.
+---
 
-### Current Projects
-- Building a weather tracking application using React and Node.js
-- Contributing to open-source documentation projects
-- Developing a student resource management system
+## 🚀 Current Projects  
+🔹 **Portfolio Website** – Developing a personal website to showcase my work  
+🔹 **Personal Project** – Experimenting with front-end designs & interactivity  
+🔹 **Course Project** – Web development project for my coursework  
 
-### I'm currently learning
-- HTML, CSS, and JavaScript
-- PHP and MySQL
-- Git and GitHub workflows
+---
 
-### Technical Skills
-- Languages: HTML, CSS, JavaScript (learning)
-- Tools: VS Code, MAMP, Git
-- Concepts: Web Development, Database Design
+## 📚 I'm Currently Learning  
+- Frontend: **HTML, CSS, JavaScript**  
+- Backend: **PHP & MySQL**  
+- Version Control: **Git & GitHub workflows**  
+- Development Tools: **VS Code, MAMP**  
 
-### How to reach me
+---
+
+## 🛠️ Technical Skills  
+| **Category**   | **Skills**  |  
+|---------------|------------|  
+| **Languages** | HTML, CSS, JavaScript (learning) |  
+| **Databases** | MySQL (learning) |  
+| **Tools**     | VS Code, Git, MAMP |  
+| **Concepts**  | Web Development, Database Design |  
+
+---
+
+## 🎯 Recent Coursework  
+✅ Web Development Fundamentals  
+✅ Programming with JavaScript  
+✅ Database Design with MySQL 
+
+## 📬 How to Reach Me  
 - LinkedIn: [www.linkedin.com/in/nargis-atayee-3a2317209]
 - Email: [nargis.atayee1995@gmail.com]
 - Portfolio: [Coming Soon]
