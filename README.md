@@ -34,6 +34,14 @@
 ✅ Programming with JavaScript  
 ✅ Database Design with MySQL 
 
+---
+
+## 📊 GitHub Stats  
+![Nargis's GitHub stats](https://github-readme-stats.vercel.app/api?username=nargis-atayee&show_icons=true&theme=tokyonight)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nargis-atayee&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
+
+---
+
 ## 📬 How to Reach Me  
 - LinkedIn: [www.linkedin.com/in/nargis-atayee-3a2317209]
 - Email: [nargis.atayee1995@gmail.com]
