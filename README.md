@@ -5,8 +5,6 @@
 ---
 
 ## 🚀 Current Projects  
-🔹 **Portfolio Website** – Developing a personal website to showcase my work  
-🔹 **Personal Project** – Experimenting with front-end designs & interactivity  
 🔹 **Course Project** – Web development project for my coursework  
 
 ---
