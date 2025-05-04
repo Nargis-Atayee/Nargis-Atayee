@@ -1,6 +1,6 @@
 # Hello, I'm Nargis Atayee 👋  
 💻 Aspiring Web Developer | AS in Web Development (CIS)  
-📍 Student at San Jose City College | CIS Programming  
+📍 Student at San Jose City College | CIS Web Development 
 
 ---
 
